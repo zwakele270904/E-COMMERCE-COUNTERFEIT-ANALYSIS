@@ -15,6 +15,9 @@
 
 An in-depth analysis of e-commerce counterfeit products and transactions to uncover trends, patterns, and insights that can inform strategies to combat counterfeiting. The analysis examined the prevalence of counterfeit products across various e-commerce platforms.
 
+
+<img width="928" height="495" alt="Screenshot 2025-11-08 123442" src="https://github.com/user-attachments/assets/98c61de9-2ee5-4923-8a41-61006ab93d2b" />
+
 ### Data Source
 
 Transaction data: The Dataset used for this analysis is "" which we will later upload in our repository contains the detailed transaction made  
